@@ -43,7 +43,7 @@ public class HRMD_to_HRMD_filter extends AbstractTransformation {
 	 * Constant represents the custom namespace of Dynamic Configuration key.
 	 * DC is used to store 'BUKRS'-'ReceiverSystem' pairs.
 	 */
-	private final String dcKeyNamespace = "urn:rn:COMMON:HR:EmployeeDataDistribution:10";
+	private final String dcKeyNamespace = "urn:ru:SAP:CustomNamespace:10";
 
 	/**
 	 * List of <tt>HRMD_A09</tt> organizational management infotypes.
